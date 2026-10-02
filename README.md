@@ -2,6 +2,8 @@
 
 Team 4’s ELE2025 embedded systems project: a two-wheel robot designed for remote control and autonomous line following while pulling a lightweight trailer.
 
+I developed the robot’s control software, including manual control, line following, servo control, and the Arduino-side encoder handling. Also helped with wiring and the trailer mechanism during final integration. Telemetry software and chasis was developed by another team member.
+
 ## Project overview
 
 The robot has two operating modes:
